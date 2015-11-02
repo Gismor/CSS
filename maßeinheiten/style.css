@@ -1,3 +1,21 @@
+div {
+    display: inline-block;
+}
+
+#bildlinks {
+    float: left;
+}
+
+#bildrechts {
+    float: right;
+}
+
+.rahmen2 {
+    margin: auto;
+    width: 50%;
+    border: solid black;
+}
+
 #rahmen {
     margin: auto;
     width: 50%;
@@ -23,13 +41,13 @@
 
 #box2 {
     width: 48%;
-    margin-left: auto;
+    margin-left: 50%;
 
 }
 
 #box3 {
     width: 48%;
-    margin-right: auto;
+    margin-right: 50%;
 }
 
 #box4 {
