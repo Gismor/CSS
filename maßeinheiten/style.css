@@ -1,27 +1,39 @@
+#rahmen {
+    margin: auto;
+    width: 50%;
+    border: solid black;
+
+}
+
 .gesamt {
-    width: 400px;
+
     border: darkred solid;
     background-color: green;
     border-radius: 5px;
-    padding-left: 40px;
-    padding-right: 40px;
     padding-bottom: 5px;
     padding-top: 5px;
     margin: 10px;
+    text-align: center;
 }
 
 #box1 {
-
+    width: 80%;
+    margin: auto;
 }
 
 #box2 {
+    width: 48%;
+    margin-left: auto;
 
 }
 
-#box3{
-
+#box3 {
+    width: 48%;
+    margin-right: auto;
 }
 
-#box4{
+#box4 {
+    width: 60%;
+    margin: auto;
 
 }
