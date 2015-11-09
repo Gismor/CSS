@@ -1,5 +1,7 @@
 div {
     display: inline-block;
+    text-align: center;
+
 }
 
 #bildlinks {
@@ -30,24 +32,26 @@ div {
     border-radius: 5px;
     padding-bottom: 5px;
     padding-top: 5px;
-    margin: 10px;
+    margin: 5px;
     text-align: center;
 }
 
 #box1 {
     width: 80%;
     margin: auto;
+
+
 }
 
 #box2 {
     width: 48%;
-    margin-left: 50%;
+    float:left;
 
 }
 
 #box3 {
     width: 48%;
-    margin-right: 50%;
+    float: left;
 }
 
 #box4 {

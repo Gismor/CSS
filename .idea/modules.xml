@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/CSS.iml" filepath="$PROJECT_DIR$/CSS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ersteCSSÜbung/ersteCSSÜbung.iml" filepath="$PROJECT_DIR$/ersteCSSÜbung/ersteCSSÜbung.iml" />
       <module fileurl="file://$PROJECT_DIR$/maßeinheiten/maßeinheiten.iml" filepath="$PROJECT_DIR$/maßeinheiten/maßeinheiten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uebung5/uebung5.iml" filepath="$PROJECT_DIR$/uebung5/uebung5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uebungPositionierung/uebungPositionierung.iml" filepath="$PROJECT_DIR$/uebungPositionierung/uebungPositionierung.iml" />
       <module fileurl="file://$PROJECT_DIR$/zweiteCSS/zweiteCSS.iml" filepath="$PROJECT_DIR$/zweiteCSS/zweiteCSS.iml" />
     </modules>
   </component>
