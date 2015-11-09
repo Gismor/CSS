@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body>div{
+    width: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+div > header, div > footer {
+    text-align: center;
+    background-color: lightgray;
+    padding: 1%;
+}
+
+li {
+    background-color: lightgray;
+    border: black solid 1px;
+    list-style: none;
+    width: 20%;
+    text-align: center;
+
+    float: left;
+    margin: 1% 0 1% 1%;
+}
+
+a{
+    display: block;
+    padding: 10% 0;
+}
+
+section {
+    background-color: lightgray;
+    width: 70%;
+    float: left;
+    margin: 1%;
+    padding: 2%;
+}
+
+aside {
+    background-color: lightgray;
+    width: 19%;
+    float: left;
+    margin: 1% 0%;
+    padding: 2%;
+}
+
+div > footer {
+    clear: both;
+}
+
+section header{
+    margin: 1.5% 0%;
+}
+
+section footer{
+    margin: 1.5% 0% 6%;
+}
