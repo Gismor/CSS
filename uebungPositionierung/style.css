@@ -1,0 +1,45 @@
+#quadrate{
+    border: black solid 1px;
+    margin: 5px auto;
+    width: 500px;
+    height:500px;
+}
+div div{
+    display: table;
+    font-size: 250%;
+    margin: 3px;
+    background-color: lightgreen;
+    border: brown solid 2px;
+    border-radius: 5px;
+    width: 240px;
+    height: 240px;
+    float: left;
+}
+div p{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#d1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#d2 {
+    position: relative;
+    top: 70px;
+    left: 60px;
+}
+
+#d3 {
+    position: relative;
+    bottom: 70px;
+    right: 60px;
+}
+
+#d4 {
+    position: fixed;
+
+}
